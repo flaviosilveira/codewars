@@ -63,3 +63,11 @@ M
 7kyu/isograms.js,0/9/09ef60bf25347f26253e4e9387262a65ddead70e
 @
 8kyu/multiply.js,c/0/c09a163de9849ba8e49b187cb64dcdc122658c4c
+n
+>7kyu/extracting_the_last_element_from_concatenated_strings.sql,8/7/8701ab59fbe555637aa18dc3de9a17661a8a09a0
+c
+36kyu/insights_for_online_store_product_variants.sql,4/e/4e98bb454ce0275d339e38a10028e4808593da1e
+L
+7kyu/triangular_treasure.sql,a/d/ad1a2f1cb184273a7c3968a2abc0d4c7376841e5
+N
+7kyu/triangular_treasure-2.sql,d/8/d88d206ee9f3092a3e48c22e439ebcfc72358299
