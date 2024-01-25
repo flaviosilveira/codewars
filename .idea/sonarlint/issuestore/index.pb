@@ -71,3 +71,18 @@ L
 7kyu/triangular_treasure.sql,a/d/ad1a2f1cb184273a7c3968a2abc0d4c7376841e5
 N
 7kyu/triangular_treasure-2.sql,d/8/d88d206ee9f3092a3e48c22e439ebcfc72358299
+J
+6kyu/the-lost-beginning.js,6/4/64691d5a46c63845924dc71a773f582cb39a67e9
+J
+7kyu/coloured-triangles.js,a/6/a6c427e17d9d70dc505ee4510614a75345fe561f
+K
+8kyu/rock-paper-scissors.js,2/1/2104bfaeecc30070ad02c26653188f8cc735f909
+P
+ 8kyu/get_the_mean_of_an_array.js,d/9/d90f032a4aec17d2ff2edb95e3df593832b29471
+P
+ 8kyu/get-the-mean-of-an-array.js,0/7/078847fa46bd638dfc0e0330aae8cfd03b709050
+A
+8kyu/easy-logs.js,1/2/127284ccea15c86168e51e7a93d7e5f41afffd1a
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
